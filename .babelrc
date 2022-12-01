@@ -1,0 +1,12 @@
+{
+	"plugins": [
+		"pluginA",
+		["pluginB"],
+		[
+			"pluginC",
+			{
+				/* options */
+			}
+		]
+	]
+}
